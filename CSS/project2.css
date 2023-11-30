@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-link{
+    color: white !important;
+    font-weight: 900;
+}
+.nav-item{
+    padding: 0px 12px;
+}
+button{
+    width: 60px;
+    background-color: inherit;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-left: 20px;
+}

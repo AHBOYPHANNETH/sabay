@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family:  Roboto;
+}
+.nav-link{
+    color: white !important;
+    font-weight: 900;
+}
+.nav-item{
+    padding: 0px 12px;
+}
+button{
+    width: 60px;
+    background-color: inherit;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.text{
+    width: 40%;
+    left: 3%;
+    top: 35%;
+    color: white;
+}
